@@ -83,6 +83,7 @@ a {
 }
 @media (min-width: 375px) {
 	.title {
+		margin-left: 5px;
 	}
 }
 @media (width: 768px) {
