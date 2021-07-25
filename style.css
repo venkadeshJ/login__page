@@ -86,9 +86,3 @@ a {
 		margin: 10px;
 	}
 }
-@media (width: 768px) {
-	.title {
-		width: 80%;
-		margin-left: -5px;
-	}
-}
