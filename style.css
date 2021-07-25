@@ -81,9 +81,9 @@ a {
 .password i {
 	color: #8e44ad;
 }
-@media (min-width: 375px) {
+@media (min-width: 411px) {
 	.title {
-		margin-left: 5px;
+		margin-left: 0.5px;
 	}
 }
 @media (width: 768px) {
